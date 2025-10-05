@@ -1,0 +1,3 @@
+Write an SDC file with clock period 0.2 ns and clock uncertainty of 0.05 ns. Choose other SDC commands as appropriate.
+Run STA on the above netlist.
+Report the worst slack
